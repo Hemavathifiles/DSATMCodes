@@ -1,4 +1,4 @@
-package basics;
+package org.tnsif.cap.c2tc.javabasics;
 
 public class HelloWorld {
 
